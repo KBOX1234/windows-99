@@ -1,10 +1,8 @@
 
-# windows-96
-A faithful recreation of the Windows 96 exploitation system.
+# windows-99
+A clone of windows 93 and windows 96
 
-Meant to become an ongoing adventure game-like experiment featuring an emergent narrative. We'll see where it leads us. Ideas and contributions welcome.
-
-https://beurkinger.github.io/windows-96
+Im yet to do anything to this fork so yeh
 
 Part of the CSS based on 98.css
 Copyright (c) 2020 Jordan Scales <thatjdanisso.cool>
